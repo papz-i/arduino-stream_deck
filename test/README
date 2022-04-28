@@ -1,0 +1,21 @@
+Stream Deck using Push Buttons and 16x2 LCD
+
+- The stream deck is a pheriperal device for a computer that
+  used to swtich application by clicking a button. The goal of
+  this device is to recreate the real stream deck.
+
+Looking Forward
+
+- Implementing swtiching into a running application rather
+  than oppening a new one.
+
+Components Used:
+
+- Arduino Uno Board
+- 5 pcs of push buttons
+- 5 pcs of 1k resistor
+- 1 pc LCD IC2
+- Breadboard and Jumperwires
+
+Created by Papzi
+Date: April 22, 2022
